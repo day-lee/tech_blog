@@ -48,7 +48,7 @@
 			</div>
 
 			<button type="button" class="btn_menu">
-				<span class="ico_skin ico_menu">카테고리 메뉴열기</span>
+				<span class="ico_menu"><i class="fas fa-bars"></i></span>
 			</button>
 		</div>
 
@@ -628,3 +628,4 @@
 </body>
 
 </html>
+
